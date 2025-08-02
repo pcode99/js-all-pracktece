@@ -25,14 +25,14 @@ const loocation = 'sakhipur shariatpur';
 // }else{
 //     console.log('ami bea korbo');
 // }
-console.log(college.toUpperCase());
+// console.log(college.toUpperCase());
 
 
-const drink = ' water';
-const liquide = '  water ';
-if (drink.trim()===liquide.trim()){
-    console.log('pani pani hogea ')
-}
-else {
-    console.log('pani pani nahi melaga ')
-}
+// const drink = ' water';
+// const liquide = '  water ';
+// if (drink.trim()===liquide.trim()){
+//     console.log('pani pani hogea ')
+// }
+// else {
+//     console.log('pani pani nahi melaga ')
+// }
